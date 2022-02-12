@@ -30,7 +30,8 @@ Aqui estão algumas idéias para você começar:
 </div>
 <div>
 <a href="https://github.com/rrodrigues77">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?rrodrigues77&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?rrodrigues77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/rrodrigues77&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?https://github.com/rrodrigues77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![Snake animation](https://github.com/rrodrigues77/blob/output/github-contribution-grid-snake.svg)
 </div>
-  ![Snake animation](https://github.com/rrodrigues77/blob/output/github-contribution-grid-snake.svg)
+
