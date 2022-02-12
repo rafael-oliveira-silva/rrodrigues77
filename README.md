@@ -1,5 +1,5 @@
 ### Olá pessoal 👋
-## Olá, me chamo Ricardo José Rodrigues ! 
+## Eu sou o Ricardo José Rodrigues ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
 Aqui estão algumas idéias para você começar:
@@ -7,10 +7,10 @@ Aqui estão algumas idéias para você começar:
 - 🔭 Atualmente estou cursando Engenharia Elétrica e Engenharia de Software
 - 🌱 Aprendendo Programação, Cloud, Cybersegurança e Bootcamps
 - 👯 Estou procurando colaborar em novos projetos
-- 🤔 Estou procurando ajuda com conhecimentos e dúvidas em TI
+- 🤔 As vezes eu preciso de ajuda com conhecimentos e dúvidas em TI
 - 💬 Pergunte-me sobre TI ou outro assunto que eu possa te ajudar
-- 📫 Como entrar em contato comigo: Abaixo tem meus contatos, fique à vontade
-- 😄 Pronomes: Ricardo, amigo, brother ou como você achar melhor
+- 📫 Como entrar em contato comigo: Logo abaixo você vai encontrar meus contatos, então fique à vontade 
+- 😄 Pronomes: Richard, Ricardo, amigo, brother ou como você achar melhor
 - ⚡ Curiosidade: Aprender coisas novas
 -->
 -->
