@@ -1,16 +1,38 @@
-### Hi there 👋
+### Olá pessoal 👋
+## Olá, me chamo Ricardo José Rodrigues ! 
+### Bem vindo ao meu perfil GitHub 👋
+<! --
+**rrodrigues77/rrodrigues77** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
-<!--
-**rrodrigues77/rrodrigues77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui estão algumas idéias para você começar:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente estou em busca de trabalho ou estágio
+- 🌱 Atualmente estou aprendendo programação, cloud, cybersegurança
+- 👯 Estou procurando colaborar em novos projetos
+- 🤔 Estou procurando ajuda com conhecimentos e dúvidas em TI
+- 💬 Pergunte-me sobre TI ou outro assunto que eu possa te ajudar
+- 📫 Como entrar em contato comigo: Abaixo tem meus contatos, fique à vontade
+- 😄 Pronomes: Ricardo, amigo, brother ou como você achar melhor
+- ⚡ Curiosidade: Aprender coisas novas
 -->
+-->### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+### Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+### Contatos:
+
+<div>
+<a href="https://www.youtube.com/channel/UCktIWseG7vDKbJt6HJPJMnQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/jw_ricardo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "ricardo.engenharia.dados@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ricardorodrigues77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+<div>
+<a href="https://github.com/rrodrigues77">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  ![Snake animation](https://github.com/rrodrigues77/rrodrigues77/blob/output/github-contribution-grid-snake.svg)
