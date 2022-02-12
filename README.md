@@ -4,8 +4,8 @@
 
 Aqui estão algumas idéias para você começar:
 
-- 🔭 Atualmente estou em busca de trabalho ou estágio
-- 🌱 Atualmente estou aprendendo programação, cloud, cybersegurança
+- 🔭 Atualmente estou cursando Engenharia Elétrica e Engenharia de Software
+- 🌱 Aprendendo Programação, Cloud, Cybersegurança e Bootcamps
 - 👯 Estou procurando colaborar em novos projetos
 - 🤔 Estou procurando ajuda com conhecimentos e dúvidas em TI
 - 💬 Pergunte-me sobre TI ou outro assunto que eu possa te ajudar
