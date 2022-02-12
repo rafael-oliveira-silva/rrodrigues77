@@ -1,8 +1,6 @@
 ### Olá pessoal 👋
 ## Olá, me chamo Ricardo José Rodrigues ! 
 ### Bem vindo ao meu perfil GitHub 👋
-<! --
-**rrodrigues77/rrodrigues77** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
 Aqui estão algumas idéias para você começar:
 
