@@ -30,10 +30,4 @@ Aqui estão algumas idéias para você começar:
 <a href = "mailto:ricardo.engenharia.dados@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ricardorodrigues77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-  ![Snake animation](https://github.com/rrodrigues77/blob/output/github-contribution-grid-snake.svg)
-<div>
-<a href="https://github.com/rrodrigues77">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?rrodrigues77&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?rrodrigues77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
