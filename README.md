@@ -56,7 +56,7 @@ Aqui estão algumas idéias para você começar:
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrodrigues77&layout=compact&langs_count=7&theme=dark"/>
 
-</div> <br>
+</div> 
 
 <!-- Contatos -->
 
@@ -115,23 +115,11 @@ Aqui estão algumas idéias para você começar:
 
  <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg">
 
- <img align="center" alt="protoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/photoshop/photoshop-line.svg">
-
  <img align="center" alt="adobe xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/xd/xd-plain.svg">
 
  <hr>
-
-   
-
- <h3> Desenvolvimento Mobile </h3>  
-
-  
-
- <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg">
-
-  <hr>
-
-  
+ <hr>
+ 
 
   <h3> IDE </h3>  
 
