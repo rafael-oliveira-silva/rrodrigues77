@@ -49,25 +49,15 @@ Aqui estão algumas idéias para você começar:
 <a href="https://www.linkedin.com/in/ricardorodrigues77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-Olá!
-
-Eu sou Alex Gross
-
-
-
-
-
-
-
 <!-- Painel de Trabalhos -->
 
 <div>
 
- <a href="https://github.com/alexsgross">
+ <a href="https://github.com/rrodrigues77">
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexsgross&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rrodrigues77&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsgross&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrodrigues77&layout=compact&langs_count=7&theme=dark"/>
 
 </div> <br>
 
@@ -77,13 +67,11 @@ Eu sou Alex Gross
 
  <div>   
 
- <a href="https://discord.gg/H4JTzhCb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"    target="_blank"></a> 
+ <a href="https://discord.gg/8BMHywJw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"    target="_blank"></a> 
 
- <a href = "mailto:alexsgross@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
+ <a href = "mailto:ricardo.engenharia.dados@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
 
- <a href="https://www.linkedin.com/in/alexsgross/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- <a href="https://api.whatsapp.com/send?phone=5524992358368" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+ <a href="https://api.whatsapp.com/send?phone=5534988360446" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
 
                                            
 
@@ -171,6 +159,6 @@ Eu sou Alex Gross
 
  <div>
 
-  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=alexsgross&color=green" alt="alexsgross" /> <br>
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=rrodrigues77&color=green" alt="rrodrigues77" /> <br>
 
  </div>  
