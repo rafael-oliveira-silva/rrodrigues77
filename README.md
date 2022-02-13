@@ -17,11 +17,6 @@ Aqui estão algumas idéias para você começar:
  
 - 📫 Como entrar em contato comigo: Logo abaixo você vai encontrar meus contatos, então fique à vontade 
 
-- 😄 Pronomes: Richard, Ricardo, amigo, brother ou como você achar melhor
-
-- ⚡ Curiosidade: Aprender e ensinar coisas novas
--->
--->
 ### Ferramentas e Tecnologias
 
 <div style="display: inline_block"><br>
