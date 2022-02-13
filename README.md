@@ -7,13 +7,14 @@
 
 - 🔭 Atualmente estou cursando Engenharia ...
 
-- 🌱 Estudando novas tecnologias como: Java, Cloud Azure, Aplicações serverless na AWS, Firewall pfSense 2021, CompTIA Security+ SY0-501
+- 🌱 Estudando novas tecnologias como: Java, Cloud Azure, Aplicações serverless na AWS,
+-  Firewall pfSense 2021, CompTIA Security+ SY0-501
  
 - 🌱 Pesquisando e aprendendo também: Inglês, Cybersegurança e Bootcamps da DIO
 
 - 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade ✨✨✨✨✨✨✨
  
-- 📫 Como entrar em contato comigo: Logo abaixo você vai encontrar meus contatos, então fique à vontade 
+- 📫 Como entrar em contato comigo: Logo abaixo você vai encontrar meus contatos 
 
 <!-- Tecnologias -->  
 ### Ferramentas e Tecnologias
