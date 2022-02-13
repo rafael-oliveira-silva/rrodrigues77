@@ -1,8 +1,8 @@
-### Olá pessoal 👋
+## Olá pessoal 👋
 
 ## Eu sou o Ricardo Rodrigues ! 
 
-### Bem vindo ao meu perfil GitHub 👋
+## Bem vindo ao meu perfil GitHub 👋
 <!-- Apresentação -->
 
 - 🔭 Atualmente estou cursando Engenharia ...
@@ -15,7 +15,7 @@
  
 - 📫 Como entrar em contato comigo: Logo abaixo você vai encontrar meus contatos, então fique à vontade 
 
-### Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,24 +24,15 @@
   <img align="center" alt="jes-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
  </div>
 
-### Estou aprendendo
+## Estou aprendendo
 
 <div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </div>
-*************************************
-<div>
-  <a href="https://github.com/jesmoreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rrodrigues77&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>	  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrodrigues77&layout=compact&langs_count=7&theme=dark"/>
-</div>
- ***********************************
 
-
-
-### Contatos:
+## Contatos:
 
 <div>
 <a href="https://www.youtube.com/channel/UCktIWseG7vDKbJt6HJPJMnQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -64,13 +55,10 @@
 <a href="https://api.whatsapp.com/send?phone=5534988360446" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div> <br>                                     
 
-
 <!-- Tecnologias -->  
-
   
 <div style="display: inline_block">
 
-  
  <h3> Back-end </h3>
   
  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
