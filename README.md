@@ -70,20 +70,15 @@ Aqui estão algumas idéias para você começar:
 
  <a href="https://api.whatsapp.com/send?phone=5534988360446" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-                                           
+ </div> <br>                                     
 
- <br>
-
-  
 
 <!-- Tecnologias -->  
 
   
-
 <div style="display: inline_block">
 
   
-
  <h3> Back-end </h3>
   
  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
