@@ -1,6 +1,6 @@
 ### Olá pessoal 👋
 
-## Eu sou o Ricardo José Rodrigues ! 
+## Eu sou o Ricardo Rodrigues ! 
 
 ### Bem vindo ao meu perfil GitHub 👋
 <!-- Apresentação -->
@@ -50,18 +50,7 @@
   <img align="center" alt="jes-bootstrap" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
 </div>
 	 
-  ##
- 
-<div> 
-  <a href="https://instagram.com/jesmor_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jessicamakani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/j%C3%A9ssica-moreira-079071225" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-	
-
-
-
-***********************************
+ ***********************************
 
 
 
