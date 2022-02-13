@@ -5,7 +5,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 <!-- Apresentação -->
 
-- 🔭 Atualmente estou cursando Engenharia Elétrica e Engenharia de Software
+- 🔭 Atualmente estou cursando Engenharia ...
 
 - 🌱 Estudando novas tecnologias como: Java, Cloud Azure, Aplicações serverless na AWS, Firewall pfSense 2021, CompTIA Security+ SY0-501
  
