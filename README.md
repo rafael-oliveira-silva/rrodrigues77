@@ -88,6 +88,10 @@ Aqui estão algumas idéias para você começar:
   
 
  <h3> Back-end </h3>
+  
+ <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+ 	
+ <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
 
  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
